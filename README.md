@@ -3,8 +3,9 @@
 
 Command	Description
 
-   pip install fastapi
-   pip install uvicorn	
+   ➜ pip install fastapi
+   
+   ➜ pip install uvicorn	
 
 2. Start your application by running the command
 
