@@ -12,3 +12,6 @@ Command	Description
 
 makesure run at right folder
  ➜ /workspaces/ngt039/ngt039 (main) $ uvicorn api_ngt039_501:app --reload
+
+3. Plese note that only some variable in code  is temporary assign due to no db connect
+  
